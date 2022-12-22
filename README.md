@@ -1,6 +1,6 @@
 # learning-tracks-by-assembly
 ## Aim:
-Writing a learning program to learning you about { Data_Science, Flutter, Back_end, Front_end}.
+Writing a learning program to learning you about { Data Science, Flutter, Backend, Frontend}.
 
 ## Equipment’s required:
 1.	Hardware – PCs , labtop.
