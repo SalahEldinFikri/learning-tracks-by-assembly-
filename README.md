@@ -1,4 +1,4 @@
-# learning-tracks-by-assem
+# learning-tracks-by-assembly
 ## Aim:
 Writing a learning program to learning you about { Data_Science, Flutter, Back_end, Front_end}.
 
