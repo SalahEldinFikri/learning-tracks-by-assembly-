@@ -41,7 +41,7 @@ now you have three choices:
 
 And you will have a choose to go back or exit the program.
 
-And This the code explanation:
+And This the code explanation: https://www.youtube.com/watch?v=uhO2AX88PJ0&ab_channel=AbdelrahmanFahmy
 
 This program made by me and my friend @Abdofahmy10
 
