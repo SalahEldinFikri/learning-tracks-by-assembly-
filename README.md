@@ -42,7 +42,7 @@ now you have three choices:
 And you will have a choose to go back or exit the program.
 
 
-##There is a new version :
+## There is a new version :
 ### the new version just different from the old that the new has a score system that calculates your score during the quiz.
 ![image](https://user-images.githubusercontent.com/71356170/209433276-5292f586-522f-46d6-bf54-88133e24c635.png)
 
