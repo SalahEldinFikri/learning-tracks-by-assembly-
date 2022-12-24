@@ -1,4 +1,4 @@
-# learning-tracks-by-assembly
+# Learning-Tracks-Using-Assembly
 ## Aim:
 Writing a learning program to learning you about { Data Science, Flutter, Backend, Frontend}.
 
@@ -41,7 +41,13 @@ now you have three choices:
 
 And you will have a choose to go back or exit the program.
 
+
+##There is a new version :
+### the new version just different from the old that the new has a score system that calculates your score during the quiz.
+![image](https://user-images.githubusercontent.com/71356170/209433276-5292f586-522f-46d6-bf54-88133e24c635.png)
+
 And This the code explanation: https://www.youtube.com/watch?v=uhO2AX88PJ0&ab_channel=AbdelrahmanFahmy
+V2:https://youtu.be/jZpIIEKANZc
 
 This program made by me and my friend @Abdofahmy10
 
